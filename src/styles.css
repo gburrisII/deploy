@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&family=Roboto+Condensed:wght@400;700&display=swap');
+
+/* :root {
+  --primary: white;
+} */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+/*   color: var(--primary); */
+}
+
+body {
+  margin: 0;
+  font-family: 'Quicksand', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: radial-gradient(#7393B3, #1a1f1d);
+  color: #e1eeeb;
+  min-height: 100vh;
+}
+
+/* body {
+  min-height: 100vh;
+  background-image: url();
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position-x: center;
+  background-position-y: center;
+}
+ */
